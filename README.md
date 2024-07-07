@@ -2,4 +2,5 @@
 
 ## Parameters:
 
-- See App.js for parameters
+- No required and optional parameters.
+  
